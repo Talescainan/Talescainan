@@ -18,4 +18,4 @@ Atualmente estou mergulhando no mundo do desenvolvimento Web, focado em construi
 * [Minhas Práticas e Rascunhos](https://github.com/Talescainan/dev-drafts): Onde coloco meus experimentos e testes independentes.
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/taleslima7)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/taleslima7)
