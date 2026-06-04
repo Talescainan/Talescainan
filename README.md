@@ -14,7 +14,7 @@ Atualmente estou mergulhando no mundo do desenvolvimento Web, focado em construi
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📂 Meus Repositórios Principais
-* [Estudos de HTML5 e CSS3](https://github.com/Talescainan/html5-css3-modulo1): Acompanhamento detalhado do meu curso base.
+* [Estudos de HTML5 e CSS3](https://github.com/Talescainan/Curso-de-html5-css3): Acompanhamento detalhado do meu curso base.
 * [Minhas Práticas e Rascunhos](https://github.com/Talescainan/dev-drafts): Onde coloco meus experimentos e testes independentes.
 
 ## 📫 Como me encontrar
